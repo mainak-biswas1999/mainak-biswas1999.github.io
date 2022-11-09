@@ -11,49 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD (in Engineering) in Brain and Artificial Intelligence, **Indian Institute of Science, Bangalore**, (2021-)
+* B.E. in Information Technology, **Jadavpur University, Kolkata**, (2017-2021)
+* ICSE (2015) and ISC (2017), **Don Bosco School, Liluah (Kolkata)** 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 - July 2020: Summer Internship
+  * Samsung Research Institute, Bangalore (SRIB)
+  * Position: Student Trainee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+For more details, please look at my [Resume (2022)] (https://mainak-biswas1999.github.io/files/MainakBiswas_CV.pdf)
