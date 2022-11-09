@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,4 +21,4 @@ Work experience
   * Samsung Research Institute, Bangalore (SRIB)
   * Position: Student Trainee
 
-For more details, please look at my [Resume (2022)] (https://mainak-biswas1999.github.io/files/MainakBiswas_CV.pdf)
+For more details, please look at my [Resume (2022)](https://mainak-biswas1999.github.io/files/Curriculum_Vitae_June2022.pdf)
