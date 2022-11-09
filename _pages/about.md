@@ -14,4 +14,4 @@ I took up Computer Science and Information Technology as my major for my undergr
 I read a diverse range of literary works. Detective novels, thrillers, and classics (in English and Bangla) are my favourite genres. Besides having a formal training in chess, I love to play and watch tennis and cricket.
 
 
-<script type="text/javascript" id="clustrmaps" src=""></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=YuNcwPCL0D57iT8UIqj7oBwhoQmtfpn4C8FwBBy8C3M"></script>
