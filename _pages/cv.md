@@ -21,4 +21,4 @@ Work experience
   * Samsung Research Institute, Bangalore (SRIB)
   * Position: Student Trainee
 
-For more details, please look at my [Resume (2022)](https://mainak-biswas1999.github.io/files/Curriculum_Vitae_June2022.pdf)
+For more details, please look at my [Resume (2022)](https://mainak-biswas1999.github.io/files/CV_Mainak_Nov2022.pdf)
