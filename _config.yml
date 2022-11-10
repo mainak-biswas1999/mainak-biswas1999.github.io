@@ -155,7 +155,7 @@ defaults:
   # projects
   - scope:
       path: "_projects"
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
