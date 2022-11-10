@@ -154,8 +154,8 @@ defaults:
       comments: true
   # projects
   - scope:
-      path: ""
-      type: portfolio
+      path: "_projects"
+      type: projects
     values:
       layout: single
       author_profile: true
