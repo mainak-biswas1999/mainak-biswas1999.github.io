@@ -11,13 +11,13 @@ author_profile: true
 
 <h1> Research Projects (PhD)</h1>
 
-{% for post in site.projects/projects_research reversed %}
+{% for post in site.projects + "projects_research" reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 <h1> Academic Projects (relevant)</h1>
 
-{% for post in site.projects/projects_acad reversed %}
+{% for post in site.projects + "projects_acad" reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
