@@ -154,7 +154,7 @@ defaults:
       comments: true
   # projects
   - scope:
-      path: "_projects"
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
