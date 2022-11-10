@@ -2,7 +2,7 @@
 title: "Decoding Attention Signatures from EEG Data"
 collection: projects 
 type: "Undergraduate course"
-permalink: /teaching/1_EEG_decode
+permalink: /projects/1_EEG_decode
 venue: ""
 date: 2022-01-01
 ---
