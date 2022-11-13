@@ -1,9 +1,12 @@
 # main links links
 main:
   
-  - title: "Projects"
-    url: /projects/projects_research
-    
+  - title: "Research"
+    url: /projects_research/
+   
+  - title: "Academic Projects"
+    url: /projects_acad/
+  
   - title: "Publications"
     url: /publications/
    

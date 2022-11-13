@@ -154,8 +154,17 @@ defaults:
       comments: true
   # projects
   - scope:
-      path: "_projects"
-      type: projects
+      path: "_projects_acad"
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # projects
+  - scope:
+      path: "_projects_research"
+      type: teaching
     values:
       layout: single
       author_profile: true
