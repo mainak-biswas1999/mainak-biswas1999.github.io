@@ -1,6 +1,6 @@
 ---
 title: "Decoding Attention Signatures from EEG Data"
-collection: research_research 
+collection: teaching 
 type: "Attention, Deep Learning"
 permalink: /projects/projects_research/1_EEG_decode
 venue: "Cognition Lab, IISc"
