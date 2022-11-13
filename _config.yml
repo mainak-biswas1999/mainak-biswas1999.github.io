@@ -155,7 +155,7 @@ defaults:
   # projects
   - scope:
       path: "_projects_acad"
-      type: teaching
+      type: projects_acad
     values:
       layout: single
       author_profile: true
@@ -164,7 +164,7 @@ defaults:
   # projects
   - scope:
       path: "_projects_research"
-      type: teaching
+      type: projects_research
     values:
       layout: single
       author_profile: true
@@ -259,6 +259,12 @@ kramdown:
 # Collections
 collections:
   teaching:
+    output: true
+    permalink: /:collection/:path/
+  projects_acad:
+    output: true
+    permalink: /:collection/:path/
+  projects_research:
     output: true
     permalink: /:collection/:path/
   publications:
