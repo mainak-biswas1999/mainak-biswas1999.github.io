@@ -6,7 +6,3 @@ permalink: /projects/projects_research/1_EEG_decode
 venue: ""
 date: 2022-01-01
 ---
-gjraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-agenlag
-ngaeng
-nlagk
