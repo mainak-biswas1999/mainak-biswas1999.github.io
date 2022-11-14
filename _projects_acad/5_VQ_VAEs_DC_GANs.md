@@ -1,9 +1,9 @@
 ---
-title: "Decoding Attention Signatures from EEG Data"
-collection: projects_research
-type: "Attention, Deep Learning"
-permalink: /projects/projects_research/1_EEG_decode
-venue: "Cognition Lab, IISc"
-date: 2022-01-01
+title: "VQ-VAEs, DC-GANs"
+collection: projects_acad
+type: "Generative Models, Vector Quantized VAEs, GANs"
+permalink: /projects/projects_acad/5_VQ_VAEs_DC_GANs
+venue: "E9-333, ADRL, IISc"
+date: 2022-10-01
 location: None
 ---

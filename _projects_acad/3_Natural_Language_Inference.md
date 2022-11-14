@@ -1,9 +1,9 @@
 ---
-title: "Decoding Attention Signatures from EEG Data"
+title: "Natural Language Inference"
 collection: projects_research
-type: "Attention, Deep Learning"
-permalink: /projects/projects_research/1_EEG_decode
-venue: "Cognition Lab, IISc"
-date: 2022-01-01
+type: "NLP, Deep Learning"
+permalink: /projects/projects_acad/3_Natural_Language_Inference
+venue: "E0-270, ML, IISc"
+date: 2022-04-01
 location: None
 ---

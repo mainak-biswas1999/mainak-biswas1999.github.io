@@ -1,0 +1,9 @@
+---
+title: "Uniform Circle formation, Arbitrary Shape formation by swarm robots"
+collection: projects_acad
+type: "Geometric Shape formation by fat robots, Swarm Robotics"
+permalink: /projects/projects_acad/1_Swarm_Robots
+venue: "Final year B.E. project, JU"
+date: 2021-05-01
+location: None
+---
