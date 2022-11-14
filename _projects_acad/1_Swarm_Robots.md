@@ -7,3 +7,7 @@ venue: "Final year B.E. project, JU"
 date: 2021-05-01
 location: None
 ---
+
+In this project, geometric shapes are formed by synchronous, fat robots with limited visibility. Initially, these robots were made move to the circumference of a circle. [This](https://www.github.com/mainak-biswas1999) describes the algorithm.
+
+This algorithm was extended to work for multiple circles and arbitrary shapes. 

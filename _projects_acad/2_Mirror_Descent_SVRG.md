@@ -7,3 +7,7 @@ venue: "E1-260, Optimization for ML, IISc"
 date: 2021-12-01
 location: None
 ---
+
+In mirror descent, we replace the commonly use Euclidean norm with the Bregman divergence. The implementation of Mirror descent is available [here](https://www.github.com/mainak-biswas1999).
+
+Normal SGD, mini-batch gradient descent is seen to converge slower due to their variance. SVRG is an stochastic gradient descent algorithm which can be mathematically show to have lower variance than the aforesaid algorithms and is also seen to perform better. [This](https://www.github.com/mainak-biswas1999) contains the implementation of SVRG.
