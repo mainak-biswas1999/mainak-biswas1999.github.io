@@ -170,7 +170,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      
+  # talks
+  - scope:
+      path: "_talks"
+      type: talks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: "_publications"
