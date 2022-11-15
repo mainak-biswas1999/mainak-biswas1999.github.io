@@ -172,8 +172,8 @@ defaults:
       comments: true
   # talks
   - scope:
-      path: "_talks"
-      type: talks
+      path: "_talks_own"
+      type: talks_own
     values:
       layout: single
       author_profile: true
@@ -273,6 +273,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects_research:
+    output: true
+    permalink: /:collection/:path/
+  talks_own:
     output: true
     permalink: /:collection/:path/
   publications:

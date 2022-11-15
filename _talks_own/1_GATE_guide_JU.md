@@ -1,8 +1,8 @@
 ---
 title: "How to open the right Gate"
-collection: talks
+collection: talks_own
 type: "Gate, Preparation"
-permalink: /talks/1_GATE_guide_JU
+permalink: /talks_own/1_GATE_guide_JU
 venue: "Jadavapur University, Kolkata"
 date: 2022-11-18
 location: "Online"
