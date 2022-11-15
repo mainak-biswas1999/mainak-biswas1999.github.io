@@ -13,4 +13,4 @@ VQ-VAEs and DC-GANs are widely used generative models today. Vector Quantized VA
 For inference in VQ-VAEs, we need to learn a generative model on the discrete latent space of the VQ-VAE. This is the most challenging part of making VQ-VAEs work. This is because latents are not known to follow a particular bias, thus selecting an architecture as a function approximator is challenging.
 For DC-GANs, both the generator and the discriminator is made up of convolutional and inverse convolutional layers only. From an uniform noise the generator is forced to generate images so that the JS divergence between the generated and the real image is minimized.
 
-VQ-VAE code can be found [here](https://www.github.com/mainak-biswas1999) and the DC-GAN code can be found [here](https://www.github.com/mainak-biswas1999). 
+VQ-VAE code can be found [here](https://github.com/mainak-biswas1999/Academic_Projects/tree/main/VQ-VAE%20and%20DC-GAN/VQ_VAE) and the DC-GAN code can be found [here](https://github.com/mainak-biswas1999/Academic_Projects/tree/main/VQ-VAE%20and%20DC-GAN/DC_GAN). 

@@ -13,4 +13,4 @@ Traditional reinforcement learning algorithms learn about a dangerous states onl
 This introduces the idea of safe reinforcement learning. This is a student-teacher setting where, the teacher can guide the student, and prevent it from visiting potentially dangerous states. In this algorith the teacher can restore the student to a safe state when it goes to a potentially dangerous state. 
 Soft penalties incurred in such cases help the student learn a good policy without the learning being dangerous.
 
-This has been implemented in a dangerous gridworld setting [here](https://www.github.com/mainak-biswas1999).
+This has been implemented in a dangerous gridworld setting [here](https://github.com/mainak-biswas1999/Academic_Projects/tree/main/Safe%20RL%20Curriculam%20Learning).

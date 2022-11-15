@@ -12,4 +12,4 @@ In this NLP problem, the the algorithm needs to identify if the hypothesis deriv
 
 For this work, both traditional machine learning and deep learning techniques were used. For the traditional case TF-IDF features were used with a softmax classifier. After this LSTMs were used as a feature extractor. These features were then used for downstream predictions.
 
-You can find the code [here](https://www.github.com/mainak-biswas1999). 
+You can find the code [here](https://github.com/mainak-biswas1999/Academic_Projects/tree/main/Natural%20Language%20Inference). 
