@@ -3,9 +3,9 @@ title: "How to open the right Gate"
 collection: talks_own
 type: "Gate, Preparation"
 permalink: /talks_own/1_GATE_guide_JU
-venue: "Jadavapur University, Kolkata"
+venue: "Jadavapur University, Kolkata (Online)"
 date: 2022-11-18
-location: "Online"
+location: None
 ---
 
 In the freshers orientation programme, 2022, at Jadavapur University, Kolkata, I spoke about the preparation required to get a good gate score. I also touched upon the foundations needed during undergraduate studies to pursue higher education and research. 
