@@ -1,5 +1,5 @@
 ---
-title: "How to open the right Gate"
+title: "How to open the right Gate?"
 collection: talks_own
 type: "Gate, Preparation"
 permalink: /talks_own/1_GATE_guide_JU
