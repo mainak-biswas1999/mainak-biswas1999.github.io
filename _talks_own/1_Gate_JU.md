@@ -4,7 +4,7 @@ collection: talks_own
 type: "Gate, Preparations"
 permalink: /talks_own/1_Gate_JU
 venue: "Jadavpur University, Kolkata (Online)"
-date: 2022-11-18
+date: 2022-11-12
 location: None
 ---
 
