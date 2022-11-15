@@ -9,4 +9,4 @@ location: None
 ---
 
 Text Normalization plays important role in all NLP pipeline. It is used to convert different representation of an entity into a single cannonical form. 
-Weighted finite state transducers were used for this problem. [This](https://www.github.com/mainak-biswas1999) describes the technical details. 
+Weighted finite state transducers were used for this problem. [This](https://mainak-biswas1999.github.io/files/LiteratureTN_FSTs_Transducers_updated.pdf) describes the technical details. 
