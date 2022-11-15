@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "How"
 collection: talks_own
 type: ""
 permalink: /talks_own/1_GateJU
