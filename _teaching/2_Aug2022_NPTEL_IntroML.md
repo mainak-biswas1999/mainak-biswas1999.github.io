@@ -27,3 +27,5 @@ This contains the details of the tutorial sessions (1.5 hours each) conducted du
 **Tutorial 8:** Unsupervised Learning: Langrangian Multiplier, solving a constrained optimization problem, Soft clustering, K-means theory and coding, Agglomerative Clustering
 
 **Tutorial 9:** Revision: Some good practices in ML. Revision: Metric for evaluation, linear regression, Bayesian Learning, SVMs and PCA
+
+You can get the tutorial materials [here](https://drive.google.com/drive/folders/1yT8IDRW2sKIYj4_6YKT35W5R7u08TCRt?usp=sharing), python implementations [here](https://github.com/mainak-biswas1999/Academic_Projects/tree/main/Tutorial%20Codes/IntroML_cs97), and the video lectures in this youtube [link](https://www.youtube.com/playlist?list=PLcNLn_ApooUw3Q2QEPcNKyuzYhIlKvNHb). [Certificate](https://drive.google.com/file/d/1h9MWahdNJSHMvHbQibZilS1U8oi6glgt/view?usp=sharing)

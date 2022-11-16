@@ -25,3 +25,5 @@ This contains the details of the tutorial sessions (2 hours each) conducted duri
 **Tutorial 7:** Word Embeddings: problems with one-hot encoding, demonstration of similarity with tSNE, Embedding layer, How to learn them, self supervised embedding learning: Word2Vec, GloVE
 
 **Tutorial 8:** Transformers (basics): Problems with LSTMs in translation of long sentences, introduction to self attention, key-query framework, positional embeddings, using them in transformers like BERT.
+
+You can get the tutorial materials [here](https://drive.google.com/drive/folders/1yEpRApZcpXe-yyhcCIb3Jq18gkmvToEh?usp=sharing). [Certificate](https://drive.google.com/file/d/10uOTVcmnvzXlH3OspkqzHyomOJ7eqxfO/view?usp=sharing)
