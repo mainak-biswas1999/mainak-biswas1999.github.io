@@ -1,5 +1,5 @@
 ---
-title: "Optimization of Machine Learning (Jan 2023)"
+title: "Optimization for Machine Learning (Jan 2023)"
 collection: teaching
 type: "E1-260"
 permalink: /teaching/3_Jan2023_Optimization_for_ML
@@ -8,7 +8,7 @@ date: 2023-01-12
 location: "ECE"
 ---
 
-This contains the details of the tutorial sessions (1.5 hours each) and other duties performed during the TAship. 
+This contains the details of the tutorial sessions (1.5 hours each) and other duties performed during the TAship. The duties included taking tutorials and correcting assignments. 
 
 **Tutorial 1:** Convexity, convex functions, Lipschitz function, strongly convex, lipchitz smooth functions	and assignment 1 discussion
 

@@ -8,7 +8,7 @@ date: 2023-01-24
 location: "Online"
 ---
 
-This contains the details of the tutorial sessions (2 hours each) conducted during this course. 
+This contains the details of the tutorial sessions (2 hours each) conducted during this course. It is a 12 week NPTEL course with the following topics covered during its course. 
 
 **Tutorial 1:** Absolute value function, functions: domain, range, composition, inverse; and plotting graphs	
 
