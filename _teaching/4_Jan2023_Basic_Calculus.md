@@ -4,7 +4,7 @@ collection: teaching
 type: "ma-13"
 permalink: /teaching/4_Jan2023_Basic_Calculus
 venue: "NPTEL"
-date: 2023-01-08
+date: 2023-01-24
 location: "Online"
 ---
 

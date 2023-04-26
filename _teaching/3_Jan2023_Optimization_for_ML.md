@@ -8,7 +8,7 @@ date: 2023-01-12
 location: "ECE"
 ---
 
-This contains the details of the tutorial sessions (1.5 hours each) and other duties performed during the TAship.  
+This contains the details of the tutorial sessions (1.5 hours each) and other duties performed during the TAship.
 
 **Tutorial 1:** Convexity, convex functions, Lipschitz function, strongly convex, lipchitz smooth functions	and assignment 1 discussion
 
