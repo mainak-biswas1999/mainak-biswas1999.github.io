@@ -1,37 +1,31 @@
 ---
-title: "Basic Calculus 1 (Jan 2023)"
+title: "Introduction to Machine Learning (Aug 2022)"
 collection: teaching
-type: "ma-13"
+type: "cs-97"
 permalink: /teaching/4_Jan2023_Basic_Calculus
 venue: "NPTEL"
-date: 2023-01-24
+date: 2022-08-01
 location: "Online"
 ---
 
-This contains the details of the tutorial sessions (2 hours each) conducted during this course.  
+This contains the details of the tutorial sessions (1.5 hours each) conducted during this course. Coding tutorials (in python) related to the topics covered in class were also conducted in most sessions.
 
-**Tutorial 1:** Absolute value function, functions: domain, range, composition, inverse; and plotting graphs	
+**Tutorial 1:** Introduction to ML: bias-variance tradeoff, contingency table, naive classifier coding  (only numpy)
 
-**Tutorial 2:** Composite function, inverse function, limits, epsilon-delta formulation, and sandwich theorem
+**Tutorial 2:** Supervised Learning: Entropy, Decision Trees, Linear Regression as projection onto column space, coding linear regression (only numpy)
 
-**Tutorial 3:** Left-hand limit, right-hand limit, limits at infinity, infinite limit. Some algebraic computations of limits
+**Tutorial 3:** Dimensionality Reduction: KNN, projection (Linear Algebra), similarity measure, PCA: eigen vector view and coding  (only numpy)
 
-**Tutorial 4:** Continuity,  EVT, IVT, properties of continuity, problems on epsilon-delta for continuity
+**Tutorial 4:** Bayes Learning: Bayes Rule, Discriminant Functions, MLE, MAP, and Bayes Networks: problem solving, equivalence of Regularization and prior in MAP
 
-**Tutorial 5:** Differentiation, tangents, differentiability, and corresponding problems
+**Tutorial 5:** Logistic Regression, SVMs: Gradient Descent (Logistic Regression), SVM (soft and hard), and problem-solving related to SVMs. Tutorial on how to code SVM. 
 
-**Tutorial 6:** Application of derivatives: critical points, maxima-minima, increasing decreasing functions, Rolle's theorem and LMVT
+**Tutorial 6:** Artificial Neural Networks: Multilayer perceptron, Backpropagation (vectorized implementation for MLPs covered), computational graphs, coding MLP from scratch and using TensorFlow, and introduction to CNNs
 
-**Tutorial 7:** Problems on differential calculus: critical points, curvatures, graphs plotting, Rolle's theorem, LMVT, and single variable optimization problems
+**Tutorial 7:** Computational Learning Theory: PAC model numericals, shattering and VC-dimension, Ensemble Learning, Recap of Bagging and Boosting, and demonstration of the AdaBoost algorithm
 
-**Tutorial 8:** Application of derivatives: Concavity, extremas, inflexion, approximation using differentials, L-Hopitals rule. Introduction to indefinite integrals.
+**Tutorial 8:** Unsupervised Learning: Langrangian Multiplier, solving a constrained optimization problem, Soft clustering, K-means theory and coding, Agglomerative Clustering
 
-**Tutorial 9:** Reimann Integral, limit of a sum, Properties of definite integrals, some substitution tricks, area under a curve, newton-lebnitz theorem
+**Tutorial 9:** Revision: Some good practices in ML. Revision: Metric for evaluation, linear regression, Bayesian Learning, SVMs and PCA
 
-**Tutorial 10:** Integration by parts, partial fractions, area, Newton lebnitz, fundamental theorem of calculus, definite integrals
-
-**Tutorial 11:** Definite Integrals, Volume by rotation: Slicing method, disk method, washer method; reduction formula; Visualization using GeoGebra
-
-**Tutorial 12:** Cylindrical methods for calculating volumes, the surface area of rotation (surface integrals), and the length of curves and line integrals. Definite integrals and substituion
-
-You can get the tutorial materials [here](https://drive.google.com/drive/folders/1r3AmCIAoxzCQqDC1JTSy261bYZpVyvsi?usp=sharing), and the video lectures in this youtube [link](https://www.youtube.com/playlist?list=PLcNLn_ApooUywXl-IAZVRsbzz6ICQRtvM). [Certificate](https://drive.google.com/file/d/1MFpy8FI8obpkBCGAhoHYzW0RGzJ_RrqZ/view?usp=sharing)
+You can get the tutorial materials [here](https://drive.google.com/drive/folders/1yT8IDRW2sKIYj4_6YKT35W5R7u08TCRt?usp=sharing), python implementations [here](https://github.com/mainak-biswas1999/Academic_Projects/tree/main/Tutorial%20Codes/IntroML_cs97), and the video lectures in this youtube [link](https://www.youtube.com/playlist?list=PLcNLn_ApooUw3Q2QEPcNKyuzYhIlKvNHb). [Certificate](https://drive.google.com/file/d/1h9MWahdNJSHMvHbQibZilS1U8oi6glgt/view?usp=sharing)
