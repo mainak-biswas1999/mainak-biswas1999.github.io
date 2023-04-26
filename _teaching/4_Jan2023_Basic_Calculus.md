@@ -4,11 +4,11 @@ collection: teaching
 type: "ma-13"
 permalink: /teaching/4_Jan2023_Basic_Calculus
 venue: "NPTEL"
-date: 2023-01-24
+date: 2023-01-08
 location: "Online"
 ---
 
-This contains the details of the tutorial sessions (2 hours each) conducted during this course. It is a 12 week NPTEL course with the following topics covered during its course. 
+This contains the details of the tutorial sessions (2 hours each) conducted during this course.  
 
 **Tutorial 1:** Absolute value function, functions: domain, range, composition, inverse; and plotting graphs	
 
