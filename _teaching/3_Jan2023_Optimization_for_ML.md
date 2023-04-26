@@ -1,11 +1,11 @@
 ---
-title: "Basic Calculus 1 (Jan 2023)"
+title: "Optimization of Machine Learning (Jan 2023)"
 collection: teaching
-type: "ma-13"
+type: "E1-260"
 permalink: /teaching/3_Jan2023_Optimization_for_ML
 venue: "IISc"
 date: 2023-01-12
-location: "IISc"
+location: "ECE"
 ---
 
 This contains the details of the tutorial sessions (1.5 hours each) and other duties performed during the TAship. 
