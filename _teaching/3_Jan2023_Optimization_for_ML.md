@@ -10,7 +10,7 @@ location: "ECE"
 
 This contains the details of the tutorial sessions (1.5 hours each) and other duties performed during the TAship.
 
-**Tutorial 1:** Convexity, convex functions, Lipschitz function, strongly convex, lipchitz smooth functions	and assignment 1 discussion
+**Tutorial 1:** Convexity, convex functions, Lipschitz function, strongly convex, lipchitz smooth functions	and assignment 1 discussion.
 
 **Tutorial 2:** Different gradient descent techniques: Vanilla, analysis of convergence for L-smooth and u-strongly convex functions, projected gradient descent analysis, assignment 2 discussion
 

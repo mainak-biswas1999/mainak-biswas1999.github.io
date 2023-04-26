@@ -8,9 +8,9 @@ date: 2023-01-24
 location: "Online"
 ---
 
-This contains the details of the tutorial sessions (2 hours each) conducted during this course.  
+This contains the details of the tutorial sessions (2 hours each) conducted during this course.
 
-**Tutorial 1:** Absolute value function, functions: domain, range, composition, inverse; and plotting graphs	
+**Tutorial 1:** Absolute value function, functions: domain, range, composition, inverse; and plotting graphs
 
 **Tutorial 2:** Composite function, inverse function, limits, epsilon-delta formulation, and sandwich theorem
 
