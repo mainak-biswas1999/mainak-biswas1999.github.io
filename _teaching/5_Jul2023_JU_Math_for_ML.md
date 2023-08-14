@@ -20,7 +20,7 @@ This was a month long rigorous (2-3 sessions per week) mathematical course tryin
 
 **Session 4:** Moment generating functions and applications - sum of gaussians, finding kth moment, central limit theorem, random vectors, joint distributions, conditional distribution, introduction to random processes, counting process, random walk and discrete time markov chains (3 hrs)
 
-**Assignment 1: Probability and Statistics (35 points)**
+**Assignment 1:** Probability and Statistics (35 points)
 
 
 **PART B (11 hours):** Linear Algebra
@@ -33,7 +33,7 @@ This was a month long rigorous (2-3 sessions per week) mathematical course tryin
 
 **Session 8:** Inner products, norms, norms from inner products, vector norms - Lp norms (p=1, 2, infinity), dual spaces and dual norms - Lp - Lq dual norms (geometric interpretation of L1-Linf, L2-L2), introduction to matrix norms - Frobenius norm, and induced matrix norms - induced L1 norm (2.5 hours)
 
-**Assignment 2: Linear Algebra (35 points)**
+**Assignment 2:** Linear Algebra (35 points)
 
 **PART C (5 hours):** Introduction to optimization and Machine learning
 
@@ -42,7 +42,7 @@ This was a month long rigorous (2-3 sessions per week) mathematical course tryin
 
 **Session 10:** Fundamentals of Gradient descent approach, why it works, maximum likelihood estimation - linear and logistic regression, Python demonstration of gradient descent in Linear and logistic regression (2 hrs)
 
-**Assignment 3: Programming assingment - Lasso and Ridge regression (20 points), (10 points for total attendance)**
+**Assignment 3:** Programming assingment - Lasso and Ridge regression (20 points), (10 points for total attendance)
 
 
 You can get the session notes [here](https://drive.google.com/drive/folders/1v4DFq6BwKBJqvGDf4-lgoA8zqPsaSegO?usp=sharing), and the video lectures in this youtube [link](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt). [Certificate]()
