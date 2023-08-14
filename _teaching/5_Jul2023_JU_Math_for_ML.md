@@ -1,5 +1,5 @@
 ---
-title: "Foundation of Mathematics for Machine Learning (Jan 2023)"
+title: "Foundation of Mathematics for Machine Learning (July 2023)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/5_Jul2023_JU_Math_for_ML
@@ -22,7 +22,9 @@ This was a month long rigorous (2-3 sessions per week) mathematical course tryin
 
 **Assignment 1: Probability and Statistics (35 points)**
 
+
 **PART B (11 hours):** Linear Algebra
+
 **Session 5:** Introduction to matrices, vector spaces, subspaces (span and basis), finding 4 - fundamental subspaces, elimination of matrices (rank, nullity, pivots, row reduced echelon form), solution to a system of linear equations (3 hrs)
 
 **Session 6:** Identities of subspaces - e.g. rank(A+B), rank(AB), Projection matrices, least square solution - a linear algebra view, introduction to eigenvalues and eigenvectors, motivation - Fibonacci sequence, quadratic solution, similar matrices, algebraic and geometric multiplicity (3 hrs)
@@ -34,10 +36,13 @@ This was a month long rigorous (2-3 sessions per week) mathematical course tryin
 **Assignment 2: Linear Algebra (35 points)**
 
 **PART C (5 hours):** Introduction to optimization and Machine learning
-**Session 9:** Introduction to convex sets (e.g. norm balls), using epigraphs to form a convex function, 1st derivative and 2nd derivative properties of convex functions, Jensen’s inequality, Holder’s and Minkowski inequality, constrained optimization problems - Lagrangian multipliers (3 hours)
 
-**Session 10:** Fundamentals of Gradient descent approach, why it works, maximum likelihood estimation - linear and logistic regression, Python demonstration of gradient descent in Linear and logistic regression (2 hours)
 
-**Assignment 2: Programming assingment - Lasso and Ridge regression (20 points), (10 points for total attendance)**
+**Session 9:** Introduction to convex sets (e.g. norm balls), using epigraphs to form a convex function, 1st derivative and 2nd derivative properties of convex functions, Jensen’s inequality, Holder’s and Minkowski inequality, constrained optimization problems - Lagrangian multipliers (3 hrs)
+
+**Session 10:** Fundamentals of Gradient descent approach, why it works, maximum likelihood estimation - linear and logistic regression, Python demonstration of gradient descent in Linear and logistic regression (2 hrs)
+
+**Assignment 3: Programming assingment - Lasso and Ridge regression (20 points), (10 points for total attendance)**
+
 
 You can get the session notes [here](https://drive.google.com/drive/folders/1v4DFq6BwKBJqvGDf4-lgoA8zqPsaSegO?usp=sharing), and the video lectures in this youtube [link](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt). [Certificate]()
