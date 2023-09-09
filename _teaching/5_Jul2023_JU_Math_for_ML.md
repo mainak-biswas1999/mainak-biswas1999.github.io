@@ -45,4 +45,4 @@ This was a month long rigorous (2-3 sessions per week) mathematical course tryin
 **Assignment 3:** Programming assingment - Lasso and Ridge regression (20 points), (10 points for total attendance)
 
 
-You can get the session notes [here](https://drive.google.com/drive/folders/1v4DFq6BwKBJqvGDf4-lgoA8zqPsaSegO?usp=sharing), and the video lectures in this youtube [link](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt). [Certificate]()
+You can get the session notes [here](https://drive.google.com/drive/folders/1v4DFq6BwKBJqvGDf4-lgoA8zqPsaSegO?usp=sharing), and the video lectures in this youtube [link](https://www.youtube.com/playlist?list=PLcNLn_ApooUyoctc147F-49oHnfvuj3Yt). [Certificate](https://drive.google.com/file/d/1NAlc2jNueRpM72gQFsIj-KdQfHW-oyP1/view?usp=sharing)
