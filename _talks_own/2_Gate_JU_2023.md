@@ -4,7 +4,7 @@ collection: talks_own
 type: "Gate Preparations, Mathematics"
 permalink: /talks_own/2_Gate_JU_2023
 venue: "Jadavpur University, Kolkata (Online)"
-date: 2023-10-13
+date: 2023-10-10
 location: None
 ---
 

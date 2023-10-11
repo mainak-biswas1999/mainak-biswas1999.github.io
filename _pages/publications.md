@@ -12,7 +12,7 @@ redirect_from:
 Indian Institute of Science, Bangalore
 ======
 
-- Biswas, M., Umapathi, B.M., S., Sunder, S., Sridharan, D. (2023) Does Posner cueing engage attention or expectation; Answers from an embedding-filtered deep convolutional network. Conference on Cognitive Computational Neuroscience, Oxford, UK. [accepted](https://2023.ccneuro.org/)
+- Biswas, M., Umapathi, B.M., S., Sunder, S., Sridharan, D. (2023) Does Posner cueing engage attention or expectation; Answers from an embedding-filtered deep convolutional network. Conference on Cognitive Computational Neuroscience, Oxford, UK. [link](https://2023.ccneuro.org/view_paper.php?PaperNum=1280)
 
 
 
@@ -23,7 +23,7 @@ Jadavpur University, Kolkata
 
 - Biswas, M., Rahaman, S., Kundu, S., Singh, P.K., Sarkar, R. (2021). Spoken Language Identification of Indian Languages Using MFCC Features. In: Kumar, P., Singh, A.K. (eds) Machine Learning for Intelligent Multimedia Analytics. Studies in Big Data, vol 82. Springer, Singapore [link](https://doi.org/10.1007/978-981-15-9492-2_12)
 
-- Biswas M., Sahu M., Agrebi M., Singh P.K and Badr Y, Speech (2023). Emotion Recognition using Deep CNNs trained on Log-Frequency Spectrograms, Data Analytics and Computational Intelligence: Novel Models, Algorithms and Applications. [accepted](https://easychair.org/cfp/DACI-2023)
+- Biswas M., Sahu M., Agrebi M., Singh P.K and Badr Y, Speech (2023). Emotion Recognition using Deep CNNs trained on Log-Frequency Spectrograms, Data Analytics and Computational Intelligence: Novel Models, Algorithms and Applications. [link](https://link.springer.com/chapter/10.1007/978-3-031-40688-1_5)
 
 
 - Biswas, M., Rahaman, S., Mondal, M., and Chaudhuri, S.G., (2023). Multiple Uniform Circle Formation by Fat Robots Under Limited Visibility. In Proceedings of the 24th International Conference on Distributed Computing and Networking (ICDCN '23). [link](https://doi.org/10.1145/3571306.3571427)
