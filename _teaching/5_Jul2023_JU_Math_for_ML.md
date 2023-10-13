@@ -14,7 +14,7 @@ This was a month-long rigorous (2-3 sessions per week) mathematical course tryin
 
 **Session 1:**  Introduction to Counting, story proofs, probability triplet, Random variables, PMF, PDF, CDF (2.5 hrs)
 
-**Session 2:** Discrete random variables and distributions - Bernouli, Binomial, Negative Binomial, Poisson, distribution, expectation, lotus, variance (3 hrs)
+**Session 2:** Discrete random variables and distributions - Bernoulli, Binomial, Negative Binomial, Poisson, distribution, expectation, lotus, variance (3 hrs)
 
 **Session 3:** Continuous random variables and distribution - Exponential, Normal, uniform distribution, Transformation of random variables, inequalities - Markov, chebycheff, Chernoff (2.5 hrs)
 
