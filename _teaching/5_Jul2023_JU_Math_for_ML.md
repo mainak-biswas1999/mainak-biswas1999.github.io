@@ -8,7 +8,7 @@ date: 2023-07-15
 location: "Kolkata"
 ---
 
-This was a month long rigorous (2-3 sessions per week) mathematical course trying to build foundations of mathematics for learning Machine learnig. It consists of 10 session (total of 27 hours of interaction) and 3 assignments (5 hours). It primarily dealt 3 components - Probability and Statistics (11 hours), Linear Algebra (11 hours), and Introduction to Optimization and Machine Learning (5 hours). The details of the course is listed below: 
+This was a month long rigorous (2-3 sessions per week) mathematical course trying to build foundations of mathematics for learning Machine learning. It consists of 10 sessions (total of 27 hours of interaction) and 3 assignments (5 hours). It primarily dealt 3 components - Probability and Statistics (11 hours), Linear Algebra (11 hours), and Introduction to Optimization and Machine Learning (5 hours). The details of the course is listed below: 
 
 **PART A (11 hours):** Probability and Statistics
 
