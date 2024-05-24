@@ -4,7 +4,7 @@ collection: teaching
 type: "E1-213"
 permalink: /teaching/6_Jan2023_PRNN
 venue: "IISc"
-date: 2024-03-1
+date: 2024-01-01
 location: "ECE"
 ---
 
