@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "ECE"
 ---
 
-This contains the details of institute TAship duties performed in this PRNN course.
+This contains the details of institute TAship duties performed in this course.
 
 **Assignment creation:** Helped in creating assignments and questions for the course.
 
