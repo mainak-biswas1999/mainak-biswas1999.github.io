@@ -12,11 +12,13 @@ redirect_from:
 Indian Institute of Science, Bangalore
 ======
 
-- Biswas, M., Dukkipati, S. and Sridharan, D. (2025) CRAFT: Contradistinguisher regularized adaptive finetuning for deep transfer and semisupervised learning in neuroscience, CVPR (in submission).
+- Biswas, M., Srivastava, A., Parashar, A., and Sridharan, D. (2025) Rescuing referral failures during automated diagnosis of domain-shifted medical images, (in Preparation).
 
-- Biswas, M., Srivastava, A., Parashar, A., and Sridharan, D. (2024) Rescuing referral failures during automated diagnosis of domain-shifted medical images, (in Preparation).
+- Biswas, M., Sridharan, D. (2025) Conditional Latent Diffusion Models reveal Structural Connectivity correlates of BrainAge, ICCV GAIA Workshop (in submission).
 
-- Sunder, S., Rajendran, K., Biswas, M. and Sridharan, D. (2024) Neural mechanisms of attention, not expectation, govern spatial selection by probabilistic cueing, (under Review).
+- Biswas, M., Dukkipati, S. and Sridharan, D. (2025) Semi-supervised Deep Transfer for Regression without Domain Alignment, International Conference on Computer Vision, Hawaii, USA. [link](https://www.arxiv.org/abs/2509.05092)
+
+- Sunder, S., Rajendran, K., Biswas, M. and Sridharan, D. (2025) Neural mechanisms of attention, not expectation, govern spatial selection by probabilistic cueing, NeuroImage. [link](https://www.sciencedirect.com/science/article/pii/S105381192500415X)
 
 - Biswas, M., Umapathi, B.M., S., Sunder, S., Sridharan, D. (2023) Does Posner cueing engage attention or expectation; Answers from an embedding-filtered deep convolutional network. Conference on Cognitive Computational Neuroscience, Oxford, UK. [link](https://2023.ccneuro.org/view_paper.php?PaperNum=1280)
 
